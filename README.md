@@ -47,7 +47,8 @@
 
 ## 🔐 Application Flow
 
-```![flowchart.png…]()
+```
+<img width="1913" height="2048" alt="flowchart" src="https://github.com/user-attachments/assets/2eae3f22-9b45-47d0-8a28-bb2836686a5b" />
 
 
 ```
