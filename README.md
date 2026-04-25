@@ -48,11 +48,9 @@ Built with simplicity and privacy in mind, this app eliminates the hassle of pap
 
 ## 🔄 Application Flowchart
 
-```
-<img width="1360" height="1760" alt="image" src="https://github.com/user-attachments/assets/68c5af66-f861-4950-91f0-5e5a6fea5603" />
-
-
-```
+<div align="center">
+  <img width="680" alt="Smart Health Record Flowchart" src="https://github.com/user-attachments/assets/68c5af66-f861-4950-91f0-5e5a6fea5603" />
+</div>
 
 ---
 
@@ -219,3 +217,5 @@ If you find this project helpful:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
+*Made with ❤️ for better personal health management*
