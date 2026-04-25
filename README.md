@@ -7,7 +7,7 @@
 [![Database](https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge)](https://sqlite.org)
 [![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
+
 
 ---
 
