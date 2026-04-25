@@ -212,6 +212,3 @@ If you find this project helpful:
 
 ---
 
-
-
-*Made with ❤️ for better personal health management*
