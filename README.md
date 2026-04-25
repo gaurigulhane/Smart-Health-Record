@@ -1,59 +1,83 @@
 # 🏥 Smart Health Record
 
-> Your Health, Your Records — Anytime, Anywhere 📱
+<p align="center">
+  <b>Your Health, Your Records — Secure & Accessible Anytime 🔐</b>
+</p>
 
-Smart Health Record is an Android application designed to help users **store, manage, and track personal health information** in a simple and secure way.
-Health record apps like this aim to centralize medical data so users can monitor trends and stay informed about their health over time. ([GitHub][1])
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-Java%20%7C%20Kotlin-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📱 APK Download
 
-👉 **Download Latest APK:**
-[Download APK](./apk/app-debug.apk)
+<p align="center">
+  <a href="./apk/app-debug.apk">
+    <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android"/>
+  </a>
+</p>
 
-> Alternatively, visit the **Releases section** to get the latest version.
+> You can also download from the **Releases section**
 
 ---
 
 ## ✨ Features
 
-* 🧾 Store and manage personal health records
+* 🧾 Manage personal health records
 * 💊 Track medications and prescriptions
-* 📊 Monitor vital parameters (BP, Sugar, Weight, etc.)
-* 🔔 Set reminders for medicines and checkups
-* 🔐 Secure local data storage
-* 📱 Clean and user-friendly UI
+* 📊 Monitor vital data (BP, Sugar, Weight, etc.)
+* 🔔 Set reminders and alerts
+* 🔐 Secure login with **4-digit PIN**
+* 📈 View health history and trends
+* 👤 Profile management
 
 ---
 
 ## 🔄 Project Flowchart
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d09e4d8-ffb4-4788-b982-7928b62045ec" />
+<p align="center">
+  <img src="./assets/flowchart.png" width="700"/>
+</p>
 
-## 🚀 Getting Started
+---
 
-### 🔧 Installation
+## 🔐 Application Flow
 
-1. Download the APK
-2. Enable **Install from Unknown Sources**
-3. Install the APK
-4. Open the app
+![Uploading image.png…]()
+
+```
+
+---
+
+## 🚀 Installation
+
+```id="install123"
+1. Download the APK  
+2. Enable "Install from Unknown Sources"  
+3. Install the app  
+4. Open and set your PIN  
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Language:** Java / Kotlin
-* **Platform:** Android
-* **Database:** SQLite / Local Storage
-* **IDE:** Android Studio
+| Technology     | Usage           |
+| -------------- | --------------- |
+| Java / Kotlin  | App Development |
+| Android SDK    | Platform        |
+| SQLite         | Local Database  |
+| Android Studio | IDE             |
 
 ---
 
 ## 📂 Project Structure
 
-```
+```id="struct123"
 Smart-Health-Record/
 │── app/
 │── apk/
@@ -65,35 +89,17 @@ Smart-Health-Record/
 
 ---
 
-## 📦 Release
+## 📦 Release Info
 
-* **Version:** v1.0
-* **Status:** Initial Release
-* **APK:** Available in `/apk` and Releases
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
+* 🚀 Version: **v1.0**
+* 🔐 Security: **PIN Authentication**
+* 📱 Platform: Android
 
 ---
 
-## 🐛 Issues
+## 📌 About
 
-Found a bug or have suggestions?
-Open an issue and help improve the project.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**
+This project is built for **learning, demonstration, and portfolio purposes**, showcasing Android development and basic health data management.
 
 ---
 
@@ -101,12 +107,23 @@ This project is licensed under the **MIT License**
 
 **Gauri Gulhane**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</p>
+
 ---
 
 ## ⭐ Support
 
-If you like this project, don’t forget to ⭐ the repo!
+If you like this project:
+
+👉 Give it a **star ⭐**
+👉 Share it with others
 
 ---
 
-[1]: https://github.com/topics/personal-health-record?utm_source=chatgpt.com "personal-health-record · GitHub Topics · GitHub"
+<p align="center">
+  Made with ❤️ for better health tracking
+</p>
+
+---
