@@ -49,7 +49,8 @@ Built with simplicity and privacy in mind, this app eliminates the hassle of pap
 ## 🔄 Application Flowchart
 
 ```
-<img width="1212" height="1297" alt="image" src="https://github.com/user-attachments/assets/05c405fd-4d58-4a17-a994-774b507818e3" />
+<img width="1360" height="1760" alt="image" src="https://github.com/user-attachments/assets/68c5af66-f861-4950-91f0-5e5a6fea5603" />
+
 
 ```
 
