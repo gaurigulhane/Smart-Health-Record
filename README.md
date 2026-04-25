@@ -49,58 +49,8 @@ Built with simplicity and privacy in mind, this app eliminates the hassle of pap
 ## 🔄 Application Flowchart
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    APP LAUNCH                           │
-└─────────────────────────┬───────────────────────────────┘
-                          │
-                          ▼
-              ┌─────────────────────┐
-              │   First Time User?  │
-              └──────────┬──────────┘
-               YES │     │ NO
-                   ▼     ▼
-        ┌──────────┐  ┌──────────────┐
-        │  Set PIN │  │  PIN Login   │
-        └────┬─────┘  └──────┬───────┘
-             │               │
-             └───────┬───────┘
-                     ▼
-          ┌──────────────────────┐
-          │     DASHBOARD        │
-          │  (Home Screen)       │
-          └──────────┬───────────┘
-                     │
-     ┌───────────────┼────────────────┐
-     ▼               ▼                ▼
-┌─────────┐   ┌───────────┐   ┌─────────────┐
-│ Health  │   │   Vitals  │   │Medications  │
-│ Records │   │ Tracking  │   │  Tracker    │
-└────┬────┘   └─────┬─────┘   └──────┬──────┘
-     │               │                │
-     ▼               ▼                ▼
-┌─────────┐   ┌───────────┐   ┌─────────────┐
-│Add/View │   │ Log BP,   │   │ Add/Edit    │
-│Records  │   │Sugar,     │   │Prescriptions│
-│         │   │Weight etc │   │             │
-└─────────┘   └─────┬─────┘   └─────────────┘
-                    │
-                    ▼
-            ┌───────────────┐
-            │ View Trends & │
-            │ Health Charts │
-            └───────────────┘
+<img width="1212" height="1297" alt="image" src="https://github.com/user-attachments/assets/05c405fd-4d58-4a17-a994-774b507818e3" />
 
-     ┌──────────────────────────────┐
-     │        SETTINGS              │
-     │  ┌──────────┐ ┌───────────┐ │
-     │  │  Profile │ │ Reminders │ │
-     │  │ Management│ │ & Alerts  │ │
-     │  └──────────┘ └───────────┘ │
-     │  ┌──────────┐ ┌───────────┐ │
-     │  │  Backup  │ │  Restore  │ │
-     │  │   Data   │ │   Data    │ │
-     │  └──────────┘ └───────────┘ │
-     └──────────────────────────────┘
 ```
 
 ---
@@ -268,5 +218,3 @@ If you find this project helpful:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-*Made with ❤️ for better personal health management*
