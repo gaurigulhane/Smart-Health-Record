@@ -212,10 +212,6 @@ If you find this project helpful:
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 *Made with ❤️ for better personal health management*
