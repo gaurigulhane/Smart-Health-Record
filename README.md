@@ -48,7 +48,9 @@
 ## 🔐 Application Flow
 
 ```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f19a619-aa89-43c0-83d9-078570138219" />
+<img width="1212" height="1297" alt="image" src="https://github.com/user-attachments/assets/ff241a04-385c-4856-bd4f-0e43194b81f9" />
+
+```
 
 ---
 
@@ -118,3 +120,8 @@ If you like this project:
 
 👉 Give it a **star ⭐**
 👉 Share it with others
+
+---
+
+
+---
