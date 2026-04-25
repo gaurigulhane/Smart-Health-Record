@@ -21,7 +21,9 @@
   </a>
 </p>
 
-> You can also download from the **Releases section**
+<p align="center">
+  <i>Or download from the Releases section</i>
+</p>
 
 ---
 
@@ -31,16 +33,16 @@
 * 💊 Track medications and prescriptions
 * 📊 Monitor vital data (BP, Sugar, Weight, etc.)
 * 🔔 Set reminders and alerts
-* 🔐 Secure login with **4-digit PIN**
-* 📈 View health history and trends
-* 👤 Profile management
+* 🔐 Secure login with 4-digit PIN
+* 📈 View health trends and history
+* 👤 Profile management (edit, backup, restore)
 
 ---
 
 ## 🔄 Project Flowchart
 
 <p align="center">
-  <img src="./assets/flowchart.png" width="700"/>
+  <img src="./assets/flowchart.png" width="850"/>
 </p>
 
 ---
@@ -48,8 +50,7 @@
 ## 🔐 Application Flow
 
 ```
-<img width="1913" height="2048" alt="flowchart" src="https://github.com/user-attachments/assets/2eae3f22-9b45-47d0-8a28-bb2836686a5b" />
-
+<img width="1913" height="2048" alt="assetsflowchart" src="https://github.com/user-attachments/assets/d5a35b3a-d174-449a-b817-4f7380c55d9c" />
 
 ```
 
@@ -57,29 +58,29 @@
 
 ## 🚀 Installation
 
-```id="install123"
+```id="installupdated"
 1. Download the APK  
 2. Enable "Install from Unknown Sources"  
-3. Install the app  
-4. Open and set your PIN  
+3. Install the application  
+4. Open the app and start using  
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology     | Usage           |
-| -------------- | --------------- |
-| Java / Kotlin  | App Development |
-| Android SDK    | Platform        |
-| SQLite         | Local Database  |
-| Android Studio | IDE             |
+| Technology     | Purpose                 |
+| -------------- | ----------------------- |
+| Java / Kotlin  | Android Development     |
+| Android SDK    | Application Framework   |
+| SQLite         | Local Database          |
+| Android Studio | Development Environment |
 
 ---
 
 ## 📂 Project Structure
 
-```id="struct123"
+```id="structureupdated"
 Smart-Health-Record/
 │── app/
 │── apk/
@@ -91,17 +92,17 @@ Smart-Health-Record/
 
 ---
 
-## 📦 Release Info
+## 📦 Release
 
-* 🚀 Version: **v1.0**
-* 🔐 Security: **PIN Authentication**
+* 🚀 Version: v1.0
 * 📱 Platform: Android
+* 🔐 Security: PIN-based login
 
 ---
 
 ## 📌 About
 
-This project is built for **learning, demonstration, and portfolio purposes**, showcasing Android development and basic health data management.
+This project is developed for **learning and demonstration purposes**, showcasing Android app development and basic health data management.
 
 ---
 
@@ -109,20 +110,17 @@ This project is built for **learning, demonstration, and portfolio purposes**, s
 
 **Gauri Gulhane**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</p>
-
 ---
 
 ## ⭐ Support
 
-If you like this project:
+If you find this project useful:
 
-👉 Give it a **star ⭐**
-👉 Share it with others
+⭐ Star the repository
+📢 Share it with others
 
 ---
+
 
 
 ---
