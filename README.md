@@ -1,57 +1,112 @@
-# Smart Health Record - Digital Health Management System
+# 🏥 Smart Health Record
 
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+> Your Health, Your Records — Anytime, Anywhere 📱
 
-**Smart Health Record** is a state-of-the-art Android application designed to centralize and secure personal medical history. By digitizing prescriptions, lab reports, and vitals, it ensures that your life-saving information is always in your pocket.
+Smart Health Record is an Android application designed to help users **store, manage, and track personal health information** in a simple and secure way.
+Health record apps like this aim to centralize medical data so users can monitor trends and stay informed about their health over time. ([GitHub][1])
 
 ---
 
-## Key Features
+## 📱 APK Download
 
-### Secure Patient Portal
-- **Biometric/Password Login**: Secure access to sensitive health data.
-- - **Profile Management**: Maintain accurate personal and emergency contact details.
- 
-  - ### Medical Records Management
-  - - **Digital Prescriptions**: Scan and store prescriptions for easy access during pharmacy visits.
-    - - **Lab Report Repository**: Upload and categorize blood tests, X-rays, and MRI reports.
-      - - **Historical Timeline**: View your health journey with a chronologically organized record system.
-       
-        - ### Care Coordination
-        - - **Appointment Tracker**: Schedule and set reminders for doctor consultations.
-          - - **Medication Reminders**: Never miss a dose with personalized pill notifications.
-           
-            - ### Health Insights
-            - - **Vitals Tracking**: Log blood pressure, heart rate, and BMI over time.
-              - - **Progress Charts**: Visualize health trends with easy-to-read graphs.
-               
-                - ---
+👉 **Download Latest APK:**
+[Download APK](./apk/app-debug.apk)
 
-                ## Download & Quick Start
+> Alternatively, visit the **Releases section** to get the latest version.
 
-                ### 1. Download
-                Get the latest build directly from this repository:
-                - [**Download Android APK (Direct Link)**](https://github.com/gaurigulhane/Smart-Health-Record/raw/main/app-debug.apk)
-                - - [**Download Project ZIP (Archive)**](https://github.com/gaurigulhane/Smart-Health-Record/raw/main/Smart%20Health%20Record_Final.zip)
-                 
-                  - ### 2. Installation Steps
-                  - 1. **Transfer**: Move the `app-debug.apk` to your Android device.
-                    2. 2. **Security**: Navigate to `Settings > Security` and enable **"Install from Unknown Sources"**.
-                       3. 3. **Install**: Locate the file in your `Downloads` folder and tap to install.
-                          4. 4. **Permissions**: Grant necessary permissions (Camera/Storage) for record scanning.
-                            
-                             5. ---
-                            
-                             6. ## Tech Stack
-                             7. - **Languages**: Kotlin / Java
-                                - - **Architecture**: MVVM (Model-View-ViewModel)
-                                  - - **Persistence**: Firebase Firestore & Room DB
-                                    - - **Tools**: Android Studio, Git
-                                     
-                                      - ---
+---
 
-                                      ## Support & Contribution
-                                      If you find this project helpful, please consider giving it a star!
-                                      For support, contact: [gauri2005gulhane@gmail.com](mailto:gauri2005gulhane@gmail.com)
-                                      
+## ✨ Features
+
+* 🧾 Store and manage personal health records
+* 💊 Track medications and prescriptions
+* 📊 Monitor vital parameters (BP, Sugar, Weight, etc.)
+* 🔔 Set reminders for medicines and checkups
+* 🔐 Secure local data storage
+* 📱 Clean and user-friendly UI
+
+---
+
+## 🔄 Project Flowchart
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d09e4d8-ffb4-4788-b982-7928b62045ec" />
+
+## 🚀 Getting Started
+
+### 🔧 Installation
+
+1. Download the APK
+2. Enable **Install from Unknown Sources**
+3. Install the APK
+4. Open the app
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** Java / Kotlin
+* **Platform:** Android
+* **Database:** SQLite / Local Storage
+* **IDE:** Android Studio
+
+---
+
+## 📂 Project Structure
+
+```
+Smart-Health-Record/
+│── app/
+│── apk/
+│   └── app-debug.apk
+│── assets/
+│   └── flowchart.png
+│── README.md
+```
+
+---
+
+## 📦 Release
+
+* **Version:** v1.0
+* **Status:** Initial Release
+* **APK:** Available in `/apk` and Releases
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
+
+## 🐛 Issues
+
+Found a bug or have suggestions?
+Open an issue and help improve the project.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**
+
+---
+
+## 👩‍💻 Author
+
+**Gauri Gulhane**
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to ⭐ the repo!
+
+---
+
+[1]: https://github.com/topics/personal-health-record?utm_source=chatgpt.com "personal-health-record · GitHub Topics · GitHub"
