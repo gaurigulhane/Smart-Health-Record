@@ -47,9 +47,8 @@
 
 ## 🔐 Application Flow
 
-![Uploading image.png…]()
-
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f19a619-aa89-43c0-83d9-078570138219" />
 
 ---
 
@@ -119,11 +118,3 @@ If you like this project:
 
 👉 Give it a **star ⭐**
 👉 Share it with others
-
----
-
-<p align="center">
-  Made with ❤️ for better health tracking
-</p>
-
----
